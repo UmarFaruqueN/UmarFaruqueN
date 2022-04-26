@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <div id="badges" align="center">
   
-  <a href="https://www.linkedin.com/in/umar-faruque-n-509990225/">
+  <a href="https://www.linkedin.com/in/umarfaruquen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCMimRlK7-1itd_kYfzNmtnw">
